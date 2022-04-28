@@ -87,6 +87,7 @@ img {
 
 .hero {
 	background-image:url('https://artemlevko.github.io/document/hero.jpeg');
+	width:100%;
 	position:relative;
 	display:flex;
 	align-items:center;
