@@ -86,7 +86,7 @@ img {
 }
 
 .hero {
-	background-image:url('file:///D:/02/price/img/home/hero.jpeg');
+	background-image:url('https://artemlevko.github.io/document/hero.jpeg');
 	position:relative;
 	display:flex;
 	align-items:center;
